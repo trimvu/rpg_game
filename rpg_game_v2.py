@@ -22,7 +22,7 @@ class Hero(Character):
         self.name = name
         self.health = hero_health
         self.power = hero_power
-        self.coins = 2000
+        self.coins = 50
         self.inventory = []
         self.armor = []
         self.weapon = []
